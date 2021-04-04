@@ -7,7 +7,9 @@ public class MyGitClass {
 
 		System.out.println("Version 1");
 		
-		System.out.println("Version 2");
+		System.out.println("Version 2"); 
+		
+		System.out.println("Ol artýk");
 		
 		System.out.println("GitHub'a kod ekleme");
 
