@@ -6,8 +6,10 @@ public class MyGitClass {
 
 
 		System.out.println("Version 1");
-		System.out.println("GitHub'a kod ekleme");
+		
 		System.out.println("Version 2");
+		
+		System.out.println("GitHub'a kod ekleme");
 
 		/*
         05 Nisan 2021 Guncelleme
